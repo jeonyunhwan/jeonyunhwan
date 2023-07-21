@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <br/>
   
 ####  :clipboard: Once I've Used 
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonyunhwan)](https://github.com/jeonyunhwan/github-readme-stats)
  <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
    <br/>
  
 #### :pencil2: Study log
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeonyunhwan)](https://solved.ac/yoon828990)<br/>
  
   <br/>
   
