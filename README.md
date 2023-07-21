@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=JEONYUNHWAN%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=JEONYUNHWAN&fontAlign=70&stroke=00FF00&strokeWidth=3)
 <!--
 **jeonyunhwan/jeonyunhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
