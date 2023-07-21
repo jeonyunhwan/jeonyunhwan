@@ -46,7 +46,7 @@ Here are some ideas to get you started:
    <br/>
  
 #### :pencil2: Study log
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeonyunhwan)](https://solved.ac/yoon828990)<br/>
+
  
   <br/>
   
